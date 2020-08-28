@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+# 🚀 What I use ?
+- [Java](https://docs.oracle.com/javase/8/docs/api/)
+
+# 🔗 Follow me
+[![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayOffi)
+[![Github Follow](https://img.shields.io/github/followers/sathonay?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/sathonay)
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=sathonay%235371&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 <!--
 **sathonay/sathonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
