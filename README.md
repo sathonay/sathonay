@@ -1,4 +1,5 @@
-# Hi there 👋
+# 👋 Hi there !
+I am a French developer. My name is Alexis, I'm 16 years old.
 
 # 🚀 What I use ?
 - [Java](https://docs.oracle.com/javase/8/docs/api/)
