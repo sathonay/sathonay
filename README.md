@@ -18,8 +18,9 @@ I am a French developer. My name is Alexis, I'm 16 years old.
 
 
 # 📫 How to reach me
+![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=sathonay%235371&color=7289DA&logo=Discord&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayOffi)
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=sathonay%235371&color=7289DA&logo=Discord&style=for-the-badge)]()
+
 <!--
 **sathonay/sathonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
