@@ -14,7 +14,7 @@ I am a French developer. My name is Alexis, I'm 16 years old.
 </details>-->
 
 [![Alexis's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&show_icons=true)](#)
-[![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true)](https://github.com/sathonay)
+[![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true)](#)
 
 
 # 📫 How to reach me
