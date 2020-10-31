@@ -18,7 +18,7 @@ I am a French developer. My name is Alexis, I'm 16 years old.
 
 
 # 📫 How to reach me
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=sathonay%235371&color=7289DA&logo=Discord&style=for-the-badge)](https://github.com/sathonay)
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayOffi)
 
 <!--
