@@ -13,12 +13,12 @@ I am a French developer. My name is Alexis, I'm 16 years old.
 
 </details>-->
 
-[![Alexis's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&show_icons=true)](#)
-[![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true)](#)
+[![Alexis's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&show_icons=true)](https://github.com/sathonay)
+[![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true)](https://github.com/sathonay)
 
 
 # 📫 How to reach me
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=sathonay%235371&color=7289DA&logo=Discord&style=for-the-badge)](#)
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=sathonay%235371&color=7289DA&logo=Discord&style=for-the-badge)](https://github.com/sathonay)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayOffi)
 
 <!--
