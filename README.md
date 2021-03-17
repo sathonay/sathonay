@@ -1,5 +1,5 @@
 # 👋 Hi there !
-I'm Alexis or sathonay, I'm 16 y/o.
+My name is Alexis, I'm 16 y/o.
 
 # 🚀 My stats and what I use
 <!--
