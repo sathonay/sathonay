@@ -1,5 +1,5 @@
 # 👋 Hi there !
-I am a French developer. My name is Alexis, I'm 17 years old.
+I am a French developer. My name is Alexis, I'm 18 years old.
 
 # 🚀 My stats and what I use
 <!--
