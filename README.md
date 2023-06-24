@@ -1,6 +1,3 @@
-# 👋 Hi there !
-I am a French developer. My name is Alexis, I'm 19 years old.
-
 # 🚀 My stats and what I use
 <!--
 - [Java](https://docs.oracle.com/javase/8/docs/api/)
