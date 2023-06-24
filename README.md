@@ -13,7 +13,7 @@ I am a French developer. My name is Alexis, I'm 19 years old.
 
 </details>-->
 
-<div align="center" display="block">
+<div align="center">
   <img src="https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC">
   <img src="https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC">
 </div>
