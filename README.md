@@ -24,7 +24,7 @@
 # 📫 How to reach me
 
 <div align="center">
-  <a>
+  <a href="https://discord.gg/sjUdv7G9C8">
     <img src="https://lanyard.cnrad.dev/api/224136718998044672?hideTimestamp=true&hideStatus=true">
   </a>
 <!---
