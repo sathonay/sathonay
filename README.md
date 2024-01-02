@@ -23,16 +23,19 @@
 
 # 📫 How to reach me
 
+
 <div align="center">
+  <!---
   <a href="https://discord.gg/sjUdv7G9C8">
     <img src="https://lanyard.cnrad.dev/api/224136718998044672?hideTimestamp=true&hideStatus=true">
   </a>
-<!---
-[![Discord Presence](https://lanyard.cnrad.dev/api/224136718998044672?hideTimestamp=true&hideStatus=true)](https://discord.gg/sjUdv7G9C8)
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayOffi)
--->
+  [![Discord Presence](https://lanyard.cnrad.dev/api/224136718998044672?hideTimestamp=true&hideStatus=true)](https://discord.gg/sjUdv7G9C8)
+  -->
+
+  [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayOffi?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayDev)
 </div>
+
 <!--
 **sathonay/sathonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
