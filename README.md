@@ -33,7 +33,7 @@
   -->
 
   [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&logoColor=7289DA&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayDev?color=rgba(255%2C%20255%2C%20255%2C%200)&label=Follow%20me&message=Follow%20me&logo=X&style=for-the-badge)](https://twitter.com/sathonayDev)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayDev?color=rgba(255%2C%20255%2C%20255%2C%200)&label=Follow%20me&message=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayDev)
 </div>
 
 <!--
