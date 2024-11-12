@@ -50,7 +50,7 @@
   ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge)
   ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
 
-  ### 🤏 less used 
+  ### 🤏 I have a little experience with 
   
   ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
