@@ -82,7 +82,7 @@
 <div align="center">
 
 
-  ### Used previous school classes
+  ### Used in previous school classes
 
   ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
     
