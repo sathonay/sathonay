@@ -64,13 +64,7 @@
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
-  ### Frontend
-  [![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)](https://pugjs.org/api/getting-started.html)
-  
-  ### Backend
 
-  [![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)](https://nodejs.org/)
-  [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)](https://expressjs.com/)
 
   ### Software Framework
 
@@ -85,6 +79,14 @@
   [![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)](https://www.ovhcloud.com/)
   [![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://httpd.apache.org/)
   [![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)](https://nginx.org/)
+
+  #### Frontend
+  [![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)](https://pugjs.org/api/getting-started.html)
+  
+  #### Backend
+
+  [![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)](https://nodejs.org/)
+  [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)](https://expressjs.com/)
   
 </div>
 
