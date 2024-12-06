@@ -87,6 +87,10 @@
 
   [![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)](https://nodejs.org/)
   [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)](https://expressjs.com/)
+
+  #### Used in previous school classes
+
+  [![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)](https://www.arduino.cc/)
   
 </div>
 
@@ -94,9 +98,7 @@
 
 <div align="center">
 
-  ### Used in previous school classes
-
-  [![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)](https://www.arduino.cc/)
+ 
     
   ### Classic School
 
