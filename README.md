@@ -38,7 +38,9 @@
 
 <div align="center">
 
+<!--
   ### Languages
+  
   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.gnu.org/software/gnu-c-manual/)
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
@@ -68,6 +70,7 @@
 -->
 
 
+<!--
   ### Software Framework
 
   [![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=for-the-badge)](https://www.electronjs.org/)
@@ -95,6 +98,7 @@
 
   [![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)](https://www.arduino.cc/)
   -->
+<!--
 </div>
 
 # 🌱 I’m currently learning
@@ -124,6 +128,7 @@
   </a>
   [![Discord Presence](https://lanyard.cnrad.dev/api/224136718998044672?hideTimestamp=true&hideStatus=true)](https://discord.gg/sjUdv7G9C8)
   -->
+
 
   [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&logoColor=7289DA&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
 <!--  [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayDev?color=rgba(255%2C%20255%2C%20255%2C%200)&label=Follow%20me&message=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayDev)-->
