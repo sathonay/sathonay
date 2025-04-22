@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![experiment](https://nakory.com/experiment.php)](localhost)
+[![experiment](https://nakory.com/experiment.php?qsd)](localhost)
 <!--
   ### Languages
   
