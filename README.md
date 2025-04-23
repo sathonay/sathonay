@@ -32,13 +32,11 @@
 -->
 <!--
 [![Alexis's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)
-<br>
 [![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)
 -->
 
-<div align="center">
+<!--<div align="center">-->
 
-[![experiment](https://nakory.com/experiment.php?qsd)](localhost)
 <!--
   ### Languages
   
@@ -131,9 +129,8 @@
   -->
 
 
-  [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&logoColor=7289DA&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
 <!--  [![Twitter Follow](https://img.shields.io/twitter/follow/sathonayDev?color=rgba(255%2C%20255%2C%20255%2C%200)&label=Follow%20me&message=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/sathonayDev)-->
-</div>
+<!--</div>-->
 
 <!--
 **sathonay/sathonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -149,3 +146,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  [![experiment](https://nakory.com/experiment.php?qsd)](localhost)
+  
+  <!--[![Alexis's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)
+  [![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)-->
+
+  [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&logoColor=7289DA&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/sjUdv7G9C8)
+</div>
