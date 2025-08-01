@@ -149,7 +149,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  [![experiment](https://nakory.com/experiment.php)](localhost)
+  [![experiment](https://nakory.com/experiment.php&qsd)](localhost)
   
   <!--[![Alexis's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=sathonay&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)
   [![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=sathonay&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)-->
